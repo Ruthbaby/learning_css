@@ -1,0 +1,46 @@
+*{
+  border:0px;
+  margin:0px;
+  background: none;
+}
+h1 {
+  margin: auto 50px ;
+  background: none;
+}
+.main-keit {
+  height: 600px;
+  width: 900px;
+  background: linear-gradient(150deg, #210aed, #ffffff, #1b9ce6c4, #e4951721);
+  margin: 25px auto;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  padding:5px;
+  margin: 5px 50px;
+  color: #270712;
+  text-size-adjust: 20%;
+}
+img {
+  height: 300px;
+  width: 250px;
+  margin:50px;
+  border-radius: 35px;
+  padding:50px;
+  border: solid grey;
+}
+
+figcaption{
+  color: #630121;
+}
+a {
+  margin: 50px;
+  text-decoration: none;
+  }
+
+
+
+
+
+
+
